@@ -1,0 +1,11 @@
+Problem 1: Foydalanuvchidan olgan 3 ta sonni bir biriga kopaytiring. Va natijani ekranga format dan foydalanib chiqaring. 
+
+Problem 2: Foydalanuvchidan olgan B'OY va VAZN qiymatlaridan foydalanib tana hajm indeksini toping. Formula: kilo / boy(kvadrat)
+
+Problem 3: Bir mashinaning kilometrda qancha yoqqanini va necha kilometr yol bosganini foydalanuvchidan oling va haydovchining toplamda qancha to'lashi kerak ekanligini chiqaring.
+
+Problem 4: Foydalanuvchilardan ism,familya va tugilgan yilini olgan holda ularni tagma tag yozdiring
+
+Problem 5: Foydalanuvchidan ikki son oling va bu sonlarning ornini ozgartiring
+
+Problem 6: Foydalanuvchidan tik uchburchakning tik bolgan ikki burchagini(a,b) oling va hipotenus uzunligini topishga harakat qiling. Formula: a^2 + b^2 = c^2
