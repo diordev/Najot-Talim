@@ -68,7 +68,11 @@ f6 = 3
 res6 = n6 ** f5
 print(f"{n6}ni {f6}chi darajasi: {res6}")
 
-
+# Ildiz
+i1 = 10
+i2 = 0.5
+res1 = i1 ** i2
+print(f"{i1}ni ildizi: {res1}")
 # ozgaruvchiga qoshimcha qoshish
 son1 = 10
 son1 += 10

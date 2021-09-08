@@ -1,0 +1,7 @@
+Problem 1: Foydalanuvchidan olgan boy va vazn qiymatlariga kora tana indeksini aniqlang va shu qoidalarga kora ekranga shu yozuvlarni yozdiring:
+
+Problem 2: Foydalanuvchidan 3 dona son oling va eng kattasini ekranga chiqaring
+
+Problem 3: Foydalanuvchi kiritgan 1-,2- va final imtixon ballariga qara 5 lik sistemada bahosini belgilang:
+
+Problem 4: Endi geometrik shakl hisoblab chiqamiz. Birinchidan foydalanuvchidan uchburchak yoki to'rtburchak turini topishni xohlayotganingizni so'rang.
